@@ -1,2 +1,0 @@
-# holamundo
-read documentandolo
